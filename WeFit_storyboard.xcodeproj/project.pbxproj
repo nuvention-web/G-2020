@@ -15,6 +15,9 @@
 		99A1EC942405BCAA006E69F4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 99A1EC922405BCAA006E69F4 /* LaunchScreen.storyboard */; };
 		99A1EC9F2405BCAB006E69F4 /* WeFit_storyboardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99A1EC9E2405BCAB006E69F4 /* WeFit_storyboardTests.swift */; };
 		99A1ECAA2405BCAB006E69F4 /* WeFit_storyboardUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99A1ECA92405BCAB006E69F4 /* WeFit_storyboardUITests.swift */; };
+		99AFC7472405C36800068E1E /* FeedTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99AFC7462405C36800068E1E /* FeedTableViewCell.swift */; };
+		99AFC7492405C8C600068E1E /* FeedTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99AFC7482405C8C600068E1E /* FeedTableViewController.swift */; };
+		99AFC74B2405CC9900068E1E /* Feed.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99AFC74A2405CC9900068E1E /* Feed.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +52,9 @@
 		99A1ECA52405BCAB006E69F4 /* WeFit_storyboardUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WeFit_storyboardUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		99A1ECA92405BCAB006E69F4 /* WeFit_storyboardUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeFit_storyboardUITests.swift; sourceTree = "<group>"; };
 		99A1ECAB2405BCAB006E69F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		99AFC7462405C36800068E1E /* FeedTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedTableViewCell.swift; sourceTree = "<group>"; };
+		99AFC7482405C8C600068E1E /* FeedTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedTableViewController.swift; sourceTree = "<group>"; };
+		99AFC74A2405CC9900068E1E /* Feed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Feed.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +108,9 @@
 				99A1EC872405BCA7006E69F4 /* AppDelegate.swift */,
 				99A1EC892405BCA7006E69F4 /* SceneDelegate.swift */,
 				99A1EC8B2405BCA7006E69F4 /* ViewController.swift */,
+				99AFC7482405C8C600068E1E /* FeedTableViewController.swift */,
+				99AFC7462405C36800068E1E /* FeedTableViewCell.swift */,
+				99AFC74A2405CC9900068E1E /* Feed.swift */,
 				99A1EC8D2405BCA7006E69F4 /* Main.storyboard */,
 				99A1EC902405BCAA006E69F4 /* Assets.xcassets */,
 				99A1EC922405BCAA006E69F4 /* LaunchScreen.storyboard */,
@@ -260,6 +269,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				99A1EC8C2405BCA7006E69F4 /* ViewController.swift in Sources */,
+				99AFC74B2405CC9900068E1E /* Feed.swift in Sources */,
+				99AFC7472405C36800068E1E /* FeedTableViewCell.swift in Sources */,
+				99AFC7492405C8C600068E1E /* FeedTableViewController.swift in Sources */,
 				99A1EC882405BCA7006E69F4 /* AppDelegate.swift in Sources */,
 				99A1EC8A2405BCA7006E69F4 /* SceneDelegate.swift in Sources */,
 			);
