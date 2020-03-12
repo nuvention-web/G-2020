@@ -17,7 +17,7 @@ For our current code of the demo for the pitch that we are submitting on March 1
 4. Open up the "twotableviews-master.xcWORKSPACE". This is very important in order to have the environment properly set with firebase. If you use xcodeproject, it will not work with firebase.
 5. From there, you can press the play button at the top left to run the program. Make sure it's on the iPhone 11 Pro Max for the simulator. You can run on other phones but we primarily optimized it for that phone.
 
-Master branch consists of Slice 1 where it is a status feed of those who accomplished challenges. Slice2-New branch consists the Slice 2 where it shows a leaderboard for a specific challenge.
+Pitch branch consists of Slice 1 where it is a status feed of those who accomplished challenges. Slice2-New branch consists the Slice 2 where it shows a leaderboard for a specific challenge.
 
-Architecture is in the Wiki. We are currently transitioning from AWS backend to Firebase backend. Firebase will be set up by the pitch next week.
+Architecture is in the Wiki. 
 
