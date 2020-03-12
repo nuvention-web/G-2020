@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>957536778412-17cl1a6qlk01fa9l8jdptksheggm40p0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.957536778412-17cl1a6qlk01fa9l8jdptksheggm40p0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCEv8x5Wai1T6QzH4t1KsBF3XUDocBbxwU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>957536778412</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>TeamG.twotableviews</string>
+	<key>PROJECT_ID</key>
+	<string>wefit-e868b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wefit-e868b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:957536778412:ios:63f2728508f145abb00709</string>
+	<key>DATABASE_URL</key>
+	<string>https://wefit-e868b.firebaseio.com</string>
+</dict>
+</plist>
