@@ -1,5 +1,9 @@
 # G-2020
 
+# Contact:
+Irinel Bandas
+irinelbandas2020@u.northwestern.edu
+
 NOTE: READ THIS!
 For our current code of the demo for the pitch that we are submitting on March 16th, 2020, it is on the branch "pitch". There is currently two xcode projects up, the old one (WeFit) and the new one (twotableviews-master). This is due to many issues we had from using git, git histories, and xcode from the beginning. We are hoping we can potentially create a new repo to solve the whole issue of "conflicting histories". But, I repeat, to grade us on code, it is on the branch "pitch"! I will detail instructions below.
 
